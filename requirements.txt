@@ -2,4 +2,3 @@ Flask
 numpy
 scikit-learn
 gunicorn
-streamlit
